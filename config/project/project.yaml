@@ -1,0 +1,25 @@
+dateModified: 1627077867
+email:
+  fromEmail: luferapaza@gmail.com
+  fromName: 'craft cms'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    76f139aa-e3c3-4fc7-945e-a5b07506af25: Home # Home
+    8915adf7-b5a5-4500-ab6a-37f2774c1d3a: Home # Home
+    4563318b-ea8b-4b80-bab2-bd315c0f22ba: 'craft cms' # craft cms
+    ab290cf6-bf94-4921-aa9d-6a8d1c901b21: 'craft cms' # craft cms
+    db21aefb-7ef6-4744-9f45-29dd03cd4364: Uploads # Uploads
+    ed97ad87-3837-4180-a8cf-f2094667e932: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'craft cms'
+  schemaVersion: 3.7.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
